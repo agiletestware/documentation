@@ -18,14 +18,14 @@ TestRail API has to be enabled on TestRail server:
 1.	Shutdown ReadyAPI
 2.	Run the Firefly installer and follow the instructions
 
-![""](images/install-1.png "Enable API")
+![""](images/install-1.png "Firefly installation")
 
-![""](images/install-2.png "Enable API")
+![""](images/install-2.png "Firefly installation")
 
-![""](images/install-3.png "Enable API")
+![""](images/install-3.png "Firefly installation")
 
-![""](images/install-4.png "Enable API")
+![""](images/install-4.png "Firefly installation")
 
-![""](images/install-5.png "Enable API")
+![""](images/install-5.png "Firefly installation")
 
-![""](images/install-6.png "Enable API")
+![""](images/install-6.png "Firefly installation")
