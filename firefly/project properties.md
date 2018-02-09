@@ -10,3 +10,5 @@ List of project properties and their functions
 | TR_password| TestRail user password or API key| password | Yes
 | TR_path | Path to TestRail suite\section where Firefly will export tests | Master\Section 1\Section 2 | Yes
 | TR_firefly_plugin | If value is 'enabled', Firefly is enabled, otherwise it will not export data to TestRail| enabled | Yes
+
+[![Project Custom Properties](images/project-custom-props.png "Project Custom Properties")](images/project-custom-props.png "Project Custom Properties")
